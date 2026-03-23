@@ -1,10 +1,6 @@
 AguweyBot 🤖
 Asistente inteligente con Ministral-3 para análisis de documentos y conversaciones con audio
 
-https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white
-https://img.shields.io/badge/Mistral%2520AI-FF6B6B?style=flat-square&logo=mistral&logoColor=white
-https://img.shields.io/badge/Python-3.9+-3776AB?style=flat-square&logo=python&logoColor=white
-
 📋 Descripción
 AguweyBot es un asistente virtual basado en el modelo Ministral-3 de Mistral AI, diseñado para el análisis profundo de documentos y conversaciones interactivas. Cuenta con capacidades de lectura de múltiples formatos, generación de audio a partir de respuestas y una interfaz moderna con efectos visuales.
 
