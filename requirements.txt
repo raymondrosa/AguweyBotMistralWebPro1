@@ -1,0 +1,9 @@
+streamlit
+mistralai
+PyPDF2
+python-docx
+pandas
+openpyxl
+chardet
+gTTS
+Pillow
